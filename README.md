@@ -61,8 +61,4 @@ Gran parte dos estilos tamén veñen dados por bootstrap, así que recoñecement
 
 Se ben sinxela, a páxina recoñece os inputs do usuario e responde positiva ou negativamente a elas dependendo se se segue o patrón ou non, e a páxina ten metido e usado o estilo que lle ven de Bootstrap. Como as ferramentas da consola se usaron ao 100% durante a creación da páxina, damos os obxectivos por conseguidos.
 
-
-
-![2022-01-24 10_37_58-Window.png](C:\Users\Usuario\Desktop\2022-01-24%2010_37_58-Window.png)
-
-![2022-01-24 10_38_14-Window.png](C:\Users\Usuario\Desktop\2022-01-24%2010_38_14-Window.png)
+![]()
